@@ -1,0 +1,252 @@
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+23   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+23   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+23   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+73   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+514  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+684  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+21346 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+21346 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+21350 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+21370 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+21407 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+28085 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button STUDENTS pressed. Redirecting to tables panel.
+28111 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+28119 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button Log out pressed. Redirecting to login panel.
+28147 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+31226 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button Log out pressed. Redirecting to login panel.
+31244 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+40278 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+41043 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+41077 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+43407 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Option from list chosen.
+51547 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Inserting a grade to database
+51568 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+51580 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+51600 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Database updated
+51600 [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Grade inserted successfully.
+64797 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+54   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+55   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+55   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+138  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+753  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+1036 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+7179 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+7180 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+7180 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Student Mode panel.
+7199 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+7222 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+8732 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button COURSES pressed. Redirecting to tables panel.
+8763 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+8770 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+8787 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+13145 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+13816 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button GRADES pressed. Redirecting to grades panel.
+13834 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+13841 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+13862 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+18044 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+21376 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button GRADES pressed. Redirecting to grades panel.
+21391 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+21395 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+21412 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+22882 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+24143 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button COURSES pressed. Redirecting to tables panel.
+24161 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+24165 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+24182 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+26290 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+28   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+28   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+28   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+69   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+492  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+660  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+6828 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+6829 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+6829 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Student Mode panel.
+6856 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+6887 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+33   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+33   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+33   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+95   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+555  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+724  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+7917 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+7917 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+7917 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Student Mode panel.
+7932 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+7948 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+14497 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button GRADES pressed. Redirecting to grades panel.
+14518 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+14527 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+14546 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+20393 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+20410 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+23647 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+28169 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button COURSES pressed. Redirecting to tables panel.
+28196 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+28201 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+28213 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+29646 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+30852 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button Log out pressed. Redirecting to login panel.
+38994 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+38994 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+38994 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+39011 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+39037 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+40512 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+40547 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+43368 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+44049 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button STUDENTS pressed. Redirecting to tables panel.
+44070 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+44074 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+44090 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+45245 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+31   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+31   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+31   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+87   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+553  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+725  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+8951 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+8952 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+8952 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+8967 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+8986 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+9939 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+9972 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+14585 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+15205 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button STUDENTS pressed. Redirecting to tables panel.
+15233 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+15242 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+15265 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+18849 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+20922 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+20947 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+22474 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+23204 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button STUDENTS pressed. Redirecting to tables panel.
+23221 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+23225 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+23240 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+25937 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+26757 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+26788 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+28219 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+23   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+23   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+23   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+79   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+537  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+705  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+6785 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+6785 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+6785 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+6797 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+6812 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+7340 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+7383 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+27   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+28   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+28   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+79   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+489  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+653  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+5288 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+5288 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+5288 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+5303 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+5322 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+6116 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+6146 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+29   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+29   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+29   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+74   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+519  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+697  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+6116 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+6116 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+6117 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+6131 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+6152 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+6697 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+6734 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+23245 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Inserting a grade to database
+23258 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+23273 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+23299 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Database updated
+23299 [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Grade inserted successfully.
+25466 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+26628 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button STUDENTS pressed. Redirecting to tables panel.
+26648 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+26654 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+26670 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+29394 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+29412 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+40825 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+42086 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+42113 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+28   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+28   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+28   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+75   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+570  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+749  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+25   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+25   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+25   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+76   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+535  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+783  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+5149 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+5149 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+5149 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+5162 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+5181 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+6853 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+6889 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+0    [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - PROGRAM RUNNING...
+36   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Initializing GUI.
+36   [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - GUI Initialized
+36   [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - GUI Initialized
+104  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Trying to connect to database...
+621  [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Conncected to: jdbc:mysql://mysql.agh.edu.pl:3306/macbono1
+803  [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login panel opened.
+5922 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Login successful.
+5922 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Login button pressed. Attempt to login.
+5922 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Successful login. Redirecting to Teacher Mode panel.
+5941 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+5964 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+7379 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button STUDENTS pressed. Redirecting to tables panel.
+7404 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+7412 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+7426 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+8948 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+9402 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Redirecting gradeIN panel.
+9450 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data list from database.
+12696 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button INSERT GRADE pressed. Inserting a grade to database
+12724 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+12749 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data from database.
+12772 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Database updated
+12772 [AWT-EventQueue-0] INFO  gradesdatabase.DBManagement  - Grade inserted successfully.
+14584 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+15084 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button STUDENTS pressed. Redirecting to tables panel.
+15100 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+15104 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+15120 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+16536 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Filter option chosen. Setting appropriate filtration.
+16551 [AWT-EventQueue-0] TRACE gradesdatabase.DBManagement  - Retrieving data table from database.
+33862 [AWT-EventQueue-0] TRACE gradesdatabase.GUI1  - Button Back pressed. Redirecting to teacher panel.
+36201 [AWT-EventQueue-0] INFO  gradesdatabase.GUI1  - Button Log out pressed. Redirecting to login panel.
